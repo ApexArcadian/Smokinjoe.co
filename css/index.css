@@ -23,6 +23,8 @@ p {
     color: #c7d7cd;
     margin-bottom: 20px;
     overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-all;
 }
 .links {
     margin-top: 30px;
