@@ -1,6 +1,3 @@
-http://api.thumbnail.ws/api/ab95a5c79faf774a226af65072d81add4a5b50da17ff/thumbnail/get?url=http://${ip}/&width=800
-
-
 http://1.34.165.233:8282/home.html asian lady i think
 http://188.233.189.119:8085/home.html hotel front desk
 http://195.189.29.6:8181/home.html russian math professor?
