@@ -1,15 +1,11 @@
  /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
  .icon-bar {
     position: fixed;
-    top: 50%;
+    bottom: 0%;
     left:0;
     min-width: 64px;
     max-width: 256px;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
   }
-  
   /* Style the icon bar links */
   .icon-bar a {
     display: block;
