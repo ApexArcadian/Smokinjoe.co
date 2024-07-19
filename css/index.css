@@ -6,8 +6,7 @@ body {
     text-align: center;
 }
 .container {
-    max-width: 600px;
-    margin: 100px auto;
+    margin: 100px 50px 50px;
     padding: 20px;
     background-color: #46170c;
     border-radius: 10px;
@@ -73,4 +72,9 @@ p {
 
 .fancy-link:hover {
   background-color: #ddd;
+}
+
+#vergil {
+  left: 0;
+  max-height: 2in;
 }
