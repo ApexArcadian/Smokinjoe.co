@@ -9,6 +9,8 @@ document.addEventListener("DOMContentLoaded", function () {
     <a href="https://smokinjoe.co/index.html#container">Home</a> 
     <a href="https://smokinjoe.co/mrwhite.html">lol</a>
     <a href="https://smokinjoe.co/preview.html">cams</a>
+    <a href="https://smokinjoe.co/homies.html">homies</a>
+    <a href="https://smokinjoe.co/mc/index.html">mc</a>
 `
     document.body.appendChild(nav);
 });
