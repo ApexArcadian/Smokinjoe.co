@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #3A3335;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.container {
+    margin: 10rem 10rem 10rem;
+    padding: 20px;
+    background-color: #f3d9e6;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+    font-family: 'KJV1611Regular';
+    font-weight: normal;
+    font-style: normal;
+}
+.profile {
+    background-color: #D81E5B;
+    display: inline-block;
+    padding: 25px;
+    margin-bottom: 2rem;
+    border-radius:7%;
+    transition: border-radius .3s;
+}
+.profile:hover {
+    border-radius: 1%;
+}
+.profile img {
+    max-width: 20rem;
+    max-height: 20rem;
+    transition: max-width 0.3s, max-height 0.5s;
+}
+.profile:hover img {
+    max-width: 30rem;
+    max-height: 30rem;
+}
+.fa {
+    padding: 1rem;
+    font-size:2rem;
+    width: 5rem;
+    text-decoration:none;
+}
