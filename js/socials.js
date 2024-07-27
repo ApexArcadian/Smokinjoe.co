@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
     document.head.appendChild(fontAwesomeLink);
     const stickySocialsLink = document.createElement('link');
     stickySocialsLink.rel = 'stylesheet';
-    stickySocialsLink.href = '.stickysocials/stickysocials.css'
+    stickySocialsLink.href = '../css/stickysocials.css'
     document.head.appendChild(stickySocialsLink);
 
     // Create the social media icon bar
