@@ -1,9 +1,8 @@
  /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
  .icon-bar {
     position: fixed;
-    bottom: 0%;
+    bottom:0%;
     left:0;
-    min-width: 64px;
     max-width: 256px;
   }
   /* Style the icon bar links */
@@ -13,12 +12,15 @@
     padding: 16px;
     transition: all 0.3s ease;
     color: white;
-    font-size: 20px;
+    font-size: 15px;
+    opacity: 50%;
   }
   
   /* Style the social media icons with color, if you want */
   .icon-bar a:hover {
     background-color: #000;
+    opacity: 100%;
+    font-size: 25px;
   }
   
   .facebook {
@@ -52,5 +54,9 @@
   }
   .instagram {
     background: #990099;
+    color: white;
+  }
+  .discord {
+    background: #c93466;
     color: white;
   }
