@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    margin: 10rem 10rem 10rem;
+    margin: 5vw;
     padding: 20px;
     background-color: #f3d9e6;
     border-radius: 10px;
@@ -24,20 +24,15 @@ body {
     display: inline-block;
     padding: 25px;
     margin-bottom: 2rem;
-    border-radius:7%;
+    border-radius:3%;
     transition: border-radius .3s;
 }
 .profile:hover {
     border-radius: 1%;
 }
 .profile img {
-    max-width: 20rem;
-    max-height: 20rem;
+    height:25vw;
     transition: max-width 0.3s, max-height 0.5s;
-}
-.profile:hover img {
-    max-width: 30rem;
-    max-height: 30rem;
 }
 .fa {
     padding: 1rem;

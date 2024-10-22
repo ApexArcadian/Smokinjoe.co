@@ -10,7 +10,8 @@ const ipAddresses = [
     'http://190.213.67.64:10001',
     'http://139.64.168.120:8080',
     'http://75.149.26.30:1024',
-    'http://185.14.139.118:81/view/index.shtml'
+    'http://185.14.139.118:81/view/index.shtml',
+    'http://72.199.200.5:8080/'
     // Add more IP addresses here...
 ];
 
